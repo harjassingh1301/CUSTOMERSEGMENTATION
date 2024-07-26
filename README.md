@@ -1,1 +1,2 @@
-# CUSTOMERSEGMENTATION
+# CUSTOMER  SEGMENTATION
+This project focuses on segmenting customers based on various factors to better understand and target different customer groups. Utilizing a dataset, the project employs K-Means Clustering for the segmentation process. Key libraries used include Matplotlib for data visualization, NumPy for numerical operations, Pandas for data manipulation, and Scikit-Learn for implementing the machine learning algorithm. The entire analysis and model building are performed in a Jupyter Notebook, providing a clear and interactive environment for exploring the data and deriving insights. This segmentation can help businesses tailor their marketing strategies and improve customer satisfaction.
